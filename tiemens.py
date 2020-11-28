@@ -9,4 +9,6 @@ while goAgain == "Y":
     goAgain = input("Enter Y or N :")
     if goAgain == "N":
         print("Have a great day", name)
+        print("Don't forget to shower!")
         end=""
+        
